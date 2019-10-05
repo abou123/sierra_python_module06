@@ -92,7 +92,7 @@ print(DOMAIN)
 # For example, my_str[0:10:2] reads every other element between 0 and 10.
 # The stride defaults to 1 if not specified.
 
-#Try this code
+# Try this code
 # numbers = '0123456789'
 
 # print('All numbers: %s' % numbers[::])
