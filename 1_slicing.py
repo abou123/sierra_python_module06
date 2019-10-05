@@ -93,8 +93,8 @@ print(DOMAIN)
 # The stride defaults to 1 if not specified.
 
 # Try this code
-# numbers = '0123456789'
-
-# print('All numbers: %s' % numbers[::])
-# print('Every other number: %s' % numbers[::2])
-# print('Every third number between 1 and 8: %s' % numbers[1:9:3])
+# NUMBERS = '0123456789'
+#
+# print('All numbers: %s' % NUMBERS[::])
+# print('Every other number: %s' % NUMBERS[::2])
+# print('Every third number between 1 and 8: %s' % NUMBERS[1:9:3])
